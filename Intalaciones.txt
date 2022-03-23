@@ -1,0 +1,8 @@
+// Libreria CSS Tailwindcss
+npx tailwindcss-cli build --output tailwind.css
+
+// Módulo React Router V5
+npm i react-router-dom@5.3.0
+
+// Módulo UUID
+npm i uuid
